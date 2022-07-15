@@ -7,5 +7,6 @@
 | Plus Minus            | [Problem Link](https://www.hackerrank.com/challenges/plus-minus/problem)           |
 | Staircase             | [Problem Link](https://www.hackerrank.com/challenges/staircase/problem)            |
 | Mini-Max Sum          | [Problem Link](https://www.hackerrank.com/challenges/mini-max-sum/problem)         |
-| Birthday Cake Candles |                                                                                    |
-| Time Conversion       |                                                                                    |
+| Birthday Cake Candles | [Problem Link](https://www.hackerrank.com/challenges/birthday-cake-candles)        |
+| Time Conversion       | [Problem Link](https://www.hackerrank.com/challenges/time-conversion)              |
+| Grading Students      | [Problem Link](https://www.hackerrank.com/challenges/grading/problem)              |
