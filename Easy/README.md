@@ -5,4 +5,4 @@
 | A Very Big Sum       | [Problem Link](https://www.hackerrank.com/challenges/a-very-big-sum/problem)       |
 | Diagonal Difference  | [Problem Link](https://www.hackerrank.com/challenges/diagonal-difference/problem)  |
 | Plus Minus           | [Problem Link](https://www.hackerrank.com/challenges/plus-minus/problem)           |
-|                      |                                                                                    |
+| Staircase            | [Problem Link](https://www.hackerrank.com/challenges/staircase/problem)            |
