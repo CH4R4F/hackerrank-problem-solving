@@ -6,3 +6,4 @@
 | Diagonal Difference  | [Problem Link](https://www.hackerrank.com/challenges/diagonal-difference/problem)  |
 | Plus Minus           | [Problem Link](https://www.hackerrank.com/challenges/plus-minus/problem)           |
 | Staircase            | [Problem Link](https://www.hackerrank.com/challenges/staircase/problem)            |
+| Mini-Max Sum         | [Problem Link](https://www.hackerrank.com/challenges/mini-max-sum/problem)         |
