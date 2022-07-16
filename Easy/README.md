@@ -14,3 +14,4 @@
 | Number Line Jumps     | [Problem Link](https://www.hackerrank.com/challenges/kangaroo/problem)                        |
 | Breaking the Records  | [Problem Link](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |
 | Subarray Division     | [Problem Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem)                |
+| Divisible Sum Pairs   | [Problem Link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)             |
