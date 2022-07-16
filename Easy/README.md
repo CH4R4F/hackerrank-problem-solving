@@ -11,4 +11,4 @@
 | Time Conversion       | [Problem Link](https://www.hackerrank.com/challenges/time-conversion)              |
 | Grading Students      | [Problem Link](https://www.hackerrank.com/challenges/grading/problem)              |
 | Apple and Orange      | [Problem Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)     |
-| Number Line Jumps     |                                                                                    |
+| Number Line Jumps     | [Problem Link](https://www.hackerrank.com/challenges/kangaroo/problem)             |
