@@ -16,3 +16,4 @@
 | Subarray Division     | [Problem Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem)                |
 | Divisible Sum Pairs   | [Problem Link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)             |
 | Migratory Birds       | [Problem Link](https://www.hackerrank.com/challenges/migratory-birds/problem)                 |
+| Day of the Programmer | [Problem Link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)           |
