@@ -18,3 +18,4 @@
 | Migratory Birds       | [Problem Link](https://www.hackerrank.com/challenges/migratory-birds/problem)                 |
 | Day of the Programmer | [Problem Link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)           |
 | Between Two Sets      | [Problem Link](https://www.hackerrank.com/challenges/between-two-sets/problem)                |
+| Drawing Book          | [Problem Link](https://www.hackerrank.com/challenges/drawing-book/problem)                    |
