@@ -20,3 +20,4 @@
 | Between Two Sets      | [Problem Link](https://www.hackerrank.com/challenges/between-two-sets/problem)                |
 | Drawing Book          | [Problem Link](https://www.hackerrank.com/challenges/drawing-book/problem)                    |
 | Counting Valleys      | [Problem Link](https://www.hackerrank.com/challenges/counting-valleys/problem)                |
+| Electronics Shop      | [Problem Link](https://www.hackerrank.com/challenges/electronics-shop/problem)                |
