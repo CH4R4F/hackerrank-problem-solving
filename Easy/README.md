@@ -22,3 +22,4 @@
 | Counting Valleys      | [Problem Link](https://www.hackerrank.com/challenges/counting-valleys/problem)                |
 | Electronics Shop      | [Problem Link](https://www.hackerrank.com/challenges/electronics-shop/problem)                |
 | Cats and a Mouse      | [Problem Link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                |
+| Picking Numbers       | [Problem Link](https://www.hackerrank.com/challenges/picking-numbers/problem)                 |
